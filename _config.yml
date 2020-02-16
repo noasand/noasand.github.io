@@ -3,11 +3,10 @@ title: Noa Blog
 SEOTitle: Noa Blog
 header-img: img/home-bg.jpg
 email: noasand@naver.com
-description: "제 일상을 글로 남기기 위해 만들었습니다"
+description: "제 일상을 글로 남깁니다"
 keyword: "Web Hacking, Reversing, Quant"
 url: "https://noasand.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-remote_theme : Huxpro/huxpro.github.io
 
 # Publish posts or collection documents with a future date.
 future: true
