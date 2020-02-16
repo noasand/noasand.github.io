@@ -2,7 +2,7 @@
 layout: post
 title: "My Spacemacs Workflow"
 subtitle: 'From Vim to Spacemacs'
-author: "Hux"
+author: "noasand"
 header-style: text
 tags:
   - Vim
@@ -35,7 +35,7 @@ It's there!
 
 ### Shell / Terminal
 
-I occasionally use [Neovim's terminal emulator](https://neovim.io/doc/user/nvim_terminal_emulator.html) but in most of the time I just `cmd + D` for iTerms splitted window. 
+I occasionally use [Neovim's terminal emulator](https://neovim.io/doc/user/nvim_terminal_emulator.html) but in most of the time I just `cmd + D` for iTerms splitted window.
 
 I even mappped `:D` into split-then-terminal to make the experience on par ;)
 
@@ -61,10 +61,3 @@ I tend to open multiple _workspace_. Though people might found Vim tabs useful, 
 ### Buffers
 
 `SPC b b`
-
-
-
-
-
-
-
