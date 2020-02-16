@@ -2,7 +2,7 @@
 title: "Peter John Landin"
 subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
 layout: post
-author: "Hux"
+author: "noasand"
 header-style: text
 tags:
   - CS Idols
@@ -27,11 +27,5 @@ Besides of that, his contributions also include:
 
 He was much influenced by a study of McCarthy's LISP and taught [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare) ALGO with Peter Naur and Edsger W. Dijkstra. (Oh yes, definitely 4 more people to write).
 
-I have just download his old, influential paper "The next 700 programming languages". 
+I have just download his old, influential paper "The next 700 programming languages".
 I am sure it will be an enjoyable read.
-
-
-
-
-
-
